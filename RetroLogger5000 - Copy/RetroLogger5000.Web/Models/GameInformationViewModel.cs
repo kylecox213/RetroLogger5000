@@ -8,5 +8,6 @@ namespace RetroLogger5000.Web.Models
 	public class GameInformationViewModel
 	{
 		public string Message { get; set; }
+		public string Title { get; set; }
 	}
 }

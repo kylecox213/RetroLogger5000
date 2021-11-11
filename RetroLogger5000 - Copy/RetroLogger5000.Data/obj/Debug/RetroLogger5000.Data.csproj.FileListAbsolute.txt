@@ -4,3 +4,44 @@ C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000.Data\ob
 C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.csproj.CoreCompileInputs.cache
 C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.dll
 C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.pdb
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\RetroLogger5000.Data.dll.config
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\RetroLogger5000.Data.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\RetroLogger5000.Data.pdb
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\Autofac.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Buffers.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Memory.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.Helpers.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\Autofac.pdb
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\Autofac.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\Autofac.Integration.Mvc.pdb
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Buffers.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Memory.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.Helpers.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.WebPages.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.csproj.AssemblyReference.cache
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.csproj.CoreCompileInputs.cache
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.csproj.CopyComplete
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.pdb

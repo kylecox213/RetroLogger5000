@@ -11,9 +11,10 @@ namespace RetroLogger5000.Web.Controllers
     public class GameInformationController : Controller
     {
         // GET: GameInformation
-        public ActionResult Index()
+        public ActionResult Index(string title)
         {
             var model = new GameInformationViewModel();
+            model.Title = title ?? "no name";
             model.Message = ConfigurationManager.AppSettings["message"];
             return View(model);
         }

@@ -11,9 +11,9 @@ namespace RetroLogger5000.Web.Controllers
 	{
 		IGameData db;
 
-		public HomeController()
+		public HomeController(IGameData db)
 		{
-			db = new InMemoryGameData();
+			this.db = db;
 		}
 
 		public ActionResult Index()
