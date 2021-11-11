@@ -1,0 +1,20 @@
+﻿@model IEnumerable<RetroLogger5000.Data.Models.Game>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>RetroLogger5000</h1>
+    <div>Catalog of classic video games, consoles, controllers and accessories</div>
+	<div>
+        There are @Model.Count() games in the db.
+    </div>
+</div>
+
+<ul>
+	@foreach (var game in Model)
+	{
+	<li>@game.Title, @game.Platform, @game.ReleaseYear, @game.Publisher, @game.Developer, @game.Rank</li>
+    }
+</ul>

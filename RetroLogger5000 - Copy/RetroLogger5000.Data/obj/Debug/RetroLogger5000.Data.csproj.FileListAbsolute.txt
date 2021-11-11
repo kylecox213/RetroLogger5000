@@ -1,0 +1,6 @@
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000.Data\bin\Debug\RetroLogger5000.Data.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000.Data\bin\Debug\RetroLogger5000.Data.pdb
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.csproj.AssemblyReference.cache
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.csproj.CoreCompileInputs.cache
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000.Data\obj\Debug\RetroLogger5000.Data.pdb
