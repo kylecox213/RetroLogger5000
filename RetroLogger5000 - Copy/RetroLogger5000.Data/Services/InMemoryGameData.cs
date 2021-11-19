@@ -5,10 +5,15 @@ using System.Linq;
 
 namespace RetroLogger5000.Data.Services
 {
+
+	/// <summary>
+	/// Create in-memory data of type Game; 
+	/// </summary>
 	public class InMemoryGameData : IGameData
 	{
 		List<Game> _games;
 
+		//constructor 
 		public InMemoryGameData()
 		{
 			_games = new List<Game>()
@@ -19,6 +24,7 @@ namespace RetroLogger5000.Data.Services
 			};
 		}
 
+		// implement GetAll() derived from IGameData
 		public IEnumerable<Game> GetAll()
 		{
 			return _games.OrderBy(g => g.Title);

@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace RetroLogger5000.Data.Models
 {
+
+	/// <summary>
+	/// Define platform names to restrict selection to type PlatformType
+	/// </summary>
+	
 	public enum PlatformType
 	{
 		None,

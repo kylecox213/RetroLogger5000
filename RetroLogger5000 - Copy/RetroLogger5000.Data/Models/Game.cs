@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace RetroLogger5000.Data.Models
 {
+
+	/// <summary>
+	/// Define game object properties 
+	/// </summary>
+
 	public class Game
 	{
 		public int Id { get; set; }

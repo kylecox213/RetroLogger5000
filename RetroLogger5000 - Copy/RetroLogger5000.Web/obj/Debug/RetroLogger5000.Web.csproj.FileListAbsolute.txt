@@ -259,3 +259,13 @@ C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\
 C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\obj\Debug\RetroLogger5000.Web.csproj.CoreCompileInputs.cache
 C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\obj\Debug\RetroLogger5000.Web.dll
 C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\obj\Debug\RetroLogger5000.Web.pdb
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\bin\System.Web.Http.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\bin\System.Web.Http.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\obj\Debug\RetroLogger5000.Web.csproj.CopyComplete
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\bin\Autofac.Integration.WebApi.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\bin\Autofac.Integration.WebApi.pdb
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\kylec\OneDrive\Desktop\Projects\RetroLogger5000\RetroLogger5000 - Copy\RetroLogger5000.Web\bin\System.Web.Http.WebHost.xml

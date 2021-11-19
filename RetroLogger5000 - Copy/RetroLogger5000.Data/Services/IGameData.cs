@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace RetroLogger5000.Data.Services
 {
+	/// <summary>
+	/// interface that will return all of type Game
+	/// </summary>
+	
 	public interface IGameData
 	{
 		IEnumerable<Game> GetAll();
