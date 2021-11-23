@@ -13,5 +13,6 @@ namespace RetroLogger5000.Data.Services
 	public interface IGameData
 	{
 		IEnumerable<Game> GetAll();
+		Game Get(int id);
 	}
 }

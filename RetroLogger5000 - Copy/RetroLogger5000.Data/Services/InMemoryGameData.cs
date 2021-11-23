@@ -24,6 +24,11 @@ namespace RetroLogger5000.Data.Services
 			};
 		}
 
+		public Game Get(int id)
+		{
+			return _games.FirstOrDefault(g => g.Id == id);
+		}
+
 		// implement GetAll() derived from IGameData
 		public IEnumerable<Game> GetAll()
 		{
