@@ -11,7 +11,7 @@ namespace RetroLogger5000.Data.Models
 	/// Define game object properties 
 	/// </summary>
 
-	public class Game
+	public class Game : GameDetails
 	{
 		public int Id { get; set; }
 		public string Title { get; set; }

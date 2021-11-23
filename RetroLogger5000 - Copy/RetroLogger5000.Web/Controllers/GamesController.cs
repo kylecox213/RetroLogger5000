@@ -31,5 +31,10 @@ namespace RetroLogger5000.Web.Controllers
 			}
             return View(model);
 		}
+
+        public ActionResult Create()
+		{
+            return View();
+		}
     }
 }
