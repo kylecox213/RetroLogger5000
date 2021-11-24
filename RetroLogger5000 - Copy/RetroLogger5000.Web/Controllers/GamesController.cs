@@ -1,4 +1,5 @@
-﻿using RetroLogger5000.Data.Services;
+﻿using RetroLogger5000.Data.Models;
+using RetroLogger5000.Data.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,13 +16,16 @@ namespace RetroLogger5000.Web.Controllers
 		{
 			this.db = db;
 		}
-        // GET: Games
+
+
+        [HttpGet]
         public ActionResult Index()
         {
             var model = db.GetAll();
             return View(model);
         }
 
+        [HttpGet]
         public ActionResult Details(int id)
 		{
             var model = db.Get(id);
@@ -32,8 +36,11 @@ namespace RetroLogger5000.Web.Controllers
             return View(model);
 		}
 
-        public ActionResult Create()
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(Game game)
 		{
+			db.Add(game);
             return View();
 		}
     }

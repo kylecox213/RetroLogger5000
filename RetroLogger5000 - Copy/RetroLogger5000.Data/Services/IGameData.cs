@@ -14,5 +14,6 @@ namespace RetroLogger5000.Data.Services
 	{
 		IEnumerable<Game> GetAll();
 		Game Get(int id);
+		void Add(Game game);
 	}
 }

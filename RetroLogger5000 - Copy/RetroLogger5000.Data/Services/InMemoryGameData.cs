@@ -24,6 +24,13 @@ namespace RetroLogger5000.Data.Services
 			};
 		}
 
+		public void Add(Game game)
+		{
+			_games.Add(game);
+			game.Id = _games.Max(g => g.Id) + 1;
+		}
+
+
 		public Game Get(int id)
 		{
 			return _games.FirstOrDefault(g => g.Id == id);
